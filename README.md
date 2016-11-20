@@ -11,7 +11,7 @@ WeUI 是由微信官方设计团队为微信内网页和微信小程序开发的
 ### 目录
 
 * [快速上手](getting-started/README.md)
-    - [1.0 版改动](getting-started/README.md#1-0-版改动)
+    - [1.0 改动](getting-started/README.md#10-改动)
     - [相关链接](getting-started/README.md#相关链接)
     - [下载](getting-started/README.md#下载)
     - [基本模板](getting-started/README.md#基本模板)
