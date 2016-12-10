@@ -18,4 +18,4 @@ Gallery 用于上传图片的预览或展示、幻灯片播放等。
 </div>
 ```
 
-![](../images/gallery.jpg)
+![](../images/gallery-1.jpg)
