@@ -20,6 +20,7 @@ WeUI 是由微信官方设计团队为微信内网页和微信小程序开发的
         + [按钮](components/button.md)
         + [表单](components/form.md)
         + [列表](components/list.md)
+        + [滑块](components/slider.md)
     - 基础组件
         + [文章](components/article.md)
         + [Flex 布局](components/flex.md)
