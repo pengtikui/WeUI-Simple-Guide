@@ -2,7 +2,7 @@
 
 首先需要说明，WeUI 仅仅是一个样式库而已，其核心文件是 `weui.css` ，所以与 JS 相关的功能需要自己实现，此入门指南所讲内容也仅限于 `weui.css` ，jQuery 版、Vue.js 版、React 版等均不在本文范围内，具体请参阅相应的文档。
 
-> 与 JS 相关功能推荐使用微信官方的 weui.js，具体介绍及文档请参阅：https://github.com/weui/weui.js
+> 与 JS 相关功能推荐使用微信官方的 weui.js，具体介绍及文档请参阅：https://github.com/Tencent/weui.js
 
 ### 1.0 改动
 
@@ -12,9 +12,9 @@ WeUI 1.0 版本相比于 0.4.x 版本增加了一些组件，比如 Flex 布局�
 
 ### 相关链接：
 
-* GitHub：https://github.com/weui/weui
-* 官方 Wiki：https://github.com/weui/weui/wiki
-* 下载地址：https://github.com/weui/weui/releases
+* GitHub：https://github.com/Tencent/weui
+* 官方 Wiki：https://github.com/Tencent/weui/wiki
+* 下载地址：https://github.com/Tencent/weui/releases
 * Demo：https://weui.io
 * 官方 QQ 群：478234996
 

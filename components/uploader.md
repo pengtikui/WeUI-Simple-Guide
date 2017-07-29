@@ -1,6 +1,6 @@
 ## 上传组件
 
-上传组件主要用于图片上传，一般需要配合[相册组件](gallery.md)使用，WeUI 中仅包含样式，上传所需的逻辑操作需自行实现或配合 [weui.js（点击查看相关文档）](https://github.com/weui/weui.js/blob/master/docs/component/uploader.md) 实现。
+上传组件主要用于图片上传，一般需要配合[相册组件](gallery.md)使用，WeUI 中仅包含样式，上传所需的逻辑操作需自行实现或配合 [weui.js（点击查看相关文档）](https://github.com/Tencent/weui.js/blob/master/docs/component/uploader.md) 实现。
 
 ```html
 <div class="weui-uploader">

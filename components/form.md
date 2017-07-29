@@ -2,7 +2,7 @@
 
 和列表一样，每一组表单的样式类为 `weui-cells`，然后再添加相应类型的样式类，比如单选对应 `weui-cells_radio`，多选对应 `weui-cells_checkbox`，表单对应 `weui-cells_form` 等；列表内每一个条目的样式类为 `weui-cell`，再添加相应类型的样式类；一组表单内可有多个条目。
 
-表单校验相关功能可使用 [weui.js（点击查看相关文档）](https://github.com/weui/weui.js/blob/master/docs/component/form.md)
+表单校验相关功能可使用 [weui.js（点击查看相关文档）](https://github.com/Tencent/weui.js/blob/master/docs/component/form.md)
 
 ### 单选 / radio
 

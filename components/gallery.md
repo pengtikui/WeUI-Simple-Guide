@@ -2,7 +2,7 @@
 
 Gallery 用于上传图片的预览或展示、幻灯片播放等。
 
-JS 相关部分可使用 [weui.js（点击查看相关文档）](https://github.com/weui/weui.js/blob/master/docs/component/gallery.md) 实现，主要配合图片上传使用。
+JS 相关部分可使用 [weui.js（点击查看相关文档）](https://github.com/Tencent/weui.js/blob/master/docs/component/gallery.md) 实现，主要配合图片上传使用。
 
 > 注意，`weui-gallery` 的 `display` 属性默认为 `none`
 
